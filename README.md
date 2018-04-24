@@ -49,6 +49,10 @@ Error messages can be observed in log/error.log file
 [Click here](http://localhost:4502/system/console/configMgr) and then find "
 ACME Pages Health Check Service Configuration"
 
+Default evaluated path is */content/we-retail*
+
+Default error messages are *thrown an exception,Powered by Jetty,Apache Sling* since this is a common output when page is broken and stacktrace is kindly shown on production ;)
+
 
 ## Launching Health Check
 
