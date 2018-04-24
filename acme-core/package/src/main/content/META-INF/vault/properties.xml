@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>FileVault Package Properties</comment>
+	<entry key="groupId">${project.groupId}</entry>
+	<entry key="artifactId">${project.artifactId}</entry>
+	<entry key="version">${project.version}</entry>
+	<entry key="name">${project.artifactId}</entry>
+	<entry key="dependencies"/>
+	<entry key="description">acme-core Package</entry>
+	<entry key="createdBy">ACME</entry>
+	<entry key="acHandling">overwrite</entry>
+	<entry key="group">${crx.package.group}</entry>
+	<entry key="created">${timestamp}</entry>
+</properties>

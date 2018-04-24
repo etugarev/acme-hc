@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+	<filter root="/apps/acme-core/install"/>
+	<filter root="/apps/acme-configuration"/>
+	<filter root="/apps/settings/granite/operations/hc/acme_pages"/>
+	<filter root="/content/rep:policy"/>
+	<filter root="/home/users/system/acme"/>
+</workspaceFilter>
